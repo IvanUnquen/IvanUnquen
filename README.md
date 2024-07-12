@@ -1,4 +1,4 @@
-# Hola 👋, soy [Nombre del profesional]
+# Hola 👋, soy Iván Unquén D.
 
 Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
 
@@ -8,8 +8,8 @@ Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizar
 
 ## 📫 Contacto
 
-- Puedes contactarme a través de mi correo electrónico: **<example@gmail.com>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/example)**
+- Puedes contactarme a través de mi correo electrónico: **unquen88@gmail.com**
+- Puedes contactarme a través de **[Linkedin]([https://www.linkedin.com/in/example](https://www.linkedin.com/in/ivan-unquen-661767237/))**
 - Puedes visitar mi **[sitio web](https://example.com)**
 
 ### 🎨 Frontend
